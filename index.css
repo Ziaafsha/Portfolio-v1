@@ -1,0 +1,31 @@
+.text-primary-dark {
+    color: #D9ABAB;
+}
+
+.text-primary-light {
+    color: #F4D9D0;
+}
+
+.text-secondary-dark {
+    color: #921A40;
+}
+
+.text-secondary-light {
+    color: #C75B7A;
+}
+
+.bg-primary-dark {
+    background-color: #D9ABAB;
+}
+
+.bg-primary-light {
+    background-color: #F4D9D0;
+}
+
+.bg-secondary-dark {
+    background-color: #921A40;
+}
+
+.bg-secondary-light {
+    background-color: #C75B7A;
+}
